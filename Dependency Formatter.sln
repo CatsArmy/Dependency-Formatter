@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33920.267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Formatter", "Dependency Formatter\Dependency Formatter.csproj", "{FA9AC58A-4E1C-4116-8B36-7A461A77D8BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A597002-D831-4B3B-BABF-D0EB7776E4ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA9AC58A-4E1C-4116-8B36-7A461A77D8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9AC58A-4E1C-4116-8B36-7A461A77D8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9AC58A-4E1C-4116-8B36-7A461A77D8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9AC58A-4E1C-4116-8B36-7A461A77D8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED195E2E-1146-44AA-973C-AF6B34E84EBF}
+	EndGlobalSection
+EndGlobal
